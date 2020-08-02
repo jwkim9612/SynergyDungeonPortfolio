@@ -1,0 +1,812 @@
+fileFormatVersion: 2
+guid: 0140170e306af6748996338e41eee86e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 520113689039957382
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_0"
+  - first:
+      213: -8053170746073131631
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_1"
+  - first:
+      213: 2843745955509985297
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_2"
+  - first:
+      213: -4907870419852658089
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_3"
+  - first:
+      213: 8892500381032885403
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_4"
+  - first:
+      213: 4265064881035883570
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_5"
+  - first:
+      213: 1082129601159035222
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_6"
+  - first:
+      213: 9133059252578260464
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_7"
+  - first:
+      213: -7669875326113721616
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_8"
+  - first:
+      213: -8809920017042587632
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_9"
+  - first:
+      213: 6967490270358612525
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_10"
+  - first:
+      213: 5139105921876218500
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_11"
+  - first:
+      213: 7679508533125597445
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_12"
+  - first:
+      213: -8118597310685407747
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_13"
+  - first:
+      213: -3807989044196495209
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_14"
+  - first:
+      213: 571306257280507987
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_15"
+  - first:
+      213: -5298044279089804487
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_16"
+  - first:
+      213: 4276689940579900271
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_17"
+  - first:
+      213: -3404037105986411307
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_18"
+  - first:
+      213: 5266435719398937888
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_19"
+  - first:
+      213: -7899967293140968340
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_20"
+  - first:
+      213: -2930255213948759185
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_21"
+  - first:
+      213: -2370502635750973919
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_22"
+  - first:
+      213: -3450630330376284219
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_23"
+  - first:
+      213: 5812723962301704914
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_24"
+  - first:
+      213: 7733092714848086629
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_25"
+  - first:
+      213: -1387683523870444577
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_26"
+  - first:
+      213: 6455247088571097869
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_27"
+  - first:
+      213: 5584127532582339983
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_28"
+  - first:
+      213: -263330018584346554
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_29"
+  - first:
+      213: 5423921082036324953
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_30"
+  - first:
+      213: -6137348432036177227
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_31"
+  - first:
+      213: -4955114243008332541
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_32"
+  - first:
+      213: -1597993735986146169
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_33"
+  - first:
+      213: -7799353116483750410
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_34"
+  - first:
+      213: 2170282679744630318
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_35"
+  - first:
+      213: 5004129950683140417
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_36"
+  - first:
+      213: 7350159364149750192
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_37"
+  - first:
+      213: 9020810828053983409
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_38"
+  - first:
+      213: -4986322985153523441
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_39"
+  - first:
+      213: -4741162068072700194
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_40"
+  - first:
+      213: -8623554350149121368
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_41"
+  - first:
+      213: -1882607470009191156
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_42"
+  - first:
+      213: 4288720316173765060
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_43"
+  - first:
+      213: 1244042962958167135
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_44"
+  - first:
+      213: 9103384138957376934
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_45"
+  - first:
+      213: -7277666874550364935
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_46"
+  - first:
+      213: -888758381958289263
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_47"
+  - first:
+      213: -598758425083999498
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_48"
+  - first:
+      213: -4003628232308670800
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_49"
+  - first:
+      213: -98300073330314216
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_50"
+  - first:
+      213: -9064675767747965241
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_51"
+  - first:
+      213: 4178787373799536144
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_52"
+  - first:
+      213: 4236695116769988536
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_53"
+  - first:
+      213: 8675518097218816052
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_54"
+  - first:
+      213: 7839034261106317823
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_55"
+  - first:
+      213: 7106408061215964041
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_56"
+  - first:
+      213: -2855443352829410989
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_57"
+  - first:
+      213: 5476667319633689343
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_58"
+  - first:
+      213: -5452399818596565941
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_59"
+  - first:
+      213: 6639416661073479339
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_60"
+  - first:
+      213: 3234067910435736377
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_61"
+  - first:
+      213: -4912207106109491946
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_62"
+  - first:
+      213: -6953945458055120666
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_63"
+  - first:
+      213: -8518696192151650096
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_64"
+  - first:
+      213: -6415377392735452549
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_65"
+  - first:
+      213: -6790962201893778480
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_66"
+  - first:
+      213: -3988585881743321237
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_67"
+  - first:
+      213: 6393999138634074303
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_68"
+  - first:
+      213: 7998607284507081326
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_69"
+  - first:
+      213: 5903829760730859566
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_70"
+  - first:
+      213: 2160858950881009053
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_71"
+  - first:
+      213: -3497917715408815415
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_72"
+  - first:
+      213: -5572205371094457769
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_73"
+  - first:
+      213: -8679225335061169268
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_74"
+  - first:
+      213: 992757419375170028
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_75"
+  - first:
+      213: -1976945414668324827
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_76"
+  - first:
+      213: 9045441466871316062
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_77"
+  - first:
+      213: -972919150786887434
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_78"
+  - first:
+      213: -3095299008059629257
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_79"
+  - first:
+      213: -2910980578912966610
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_80"
+  - first:
+      213: 5166353234246834687
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_81"
+  - first:
+      213: 3476365923474747677
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_82"
+  - first:
+      213: -4118004029569396407
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_83"
+  - first:
+      213: -2893440309260204298
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_84"
+  - first:
+      213: -6533668817876400152
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_85"
+  - first:
+      213: -7170737434793205198
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_86"
+  - first:
+      213: 5368747201391508834
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_87"
+  - first:
+      213: 9018475261223351669
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_88"
+  - first:
+      213: -8349734790780494438
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_89"
+  - first:
+      213: 5774859170949947543
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_90"
+  - first:
+      213: 3017853766978120395
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_91"
+  - first:
+      213: 2118128551781624359
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_92"
+  - first:
+      213: -6325663244243554634
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_93"
+  - first:
+      213: -2740215607325705720
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_94"
+  - first:
+      213: 1090133659905375827
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_95"
+  - first:
+      213: -5084504847522051859
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_96"
+  - first:
+      213: -5237477804854680195
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_97"
+  - first:
+      213: -6840217953477267752
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_98"
+  - first:
+      213: -7520335185784379501
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_99"
+  - first:
+      213: -1423408042268299995
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_100"
+  - first:
+      213: 3238922260055478728
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_101"
+  - first:
+      213: 7663284842697974015
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_102"
+  - first:
+      213: -1151111020324531967
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_103"
+  - first:
+      213: 6496289549243889523
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_104"
+  - first:
+      213: -5348492927266468089
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_105"
+  - first:
+      213: 4203890431677683360
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_106"
+  - first:
+      213: 916598722601233001
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_107"
+  - first:
+      213: -2819089787413060778
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_108"
+  - first:
+      213: 8867446685875681873
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_109"
+  - first:
+      213: 4514342517637318283
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_110"
+  - first:
+      213: -8768175322557011095
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_111"
+  - first:
+      213: -2106183885186446071
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_112"
+  - first:
+      213: 4401144385008377783
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_113"
+  - first:
+      213: -48257969932764860
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_114"
+  - first:
+      213: 6628316018894875464
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_115"
+  - first:
+      213: 5388764301380011311
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_116"
+  - first:
+      213: -6455916678910110439
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_117"
+  - first:
+      213: 4105022773423359101
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_118"
+  - first:
+      213: 3882791553011593119
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_119"
+  - first:
+      213: -1679784732621900669
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_120"
+  - first:
+      213: -6669657416541650048
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_121"
+  - first:
+      213: 7048200034631220357
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_122"
+  - first:
+      213: -383583990680880166
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_123"
+  - first:
+      213: 4855491119446482857
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_124"
+  - first:
+      213: -1180163983430213462
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_125"
+  - first:
+      213: -1362488827559582068
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_126"
+  - first:
+      213: -248168317933576030
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_127"
+  - first:
+      213: -5631059894260266228
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_128"
+  - first:
+      213: -7838784748180962213
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_129"
+  - first:
+      213: 8252623446249138295
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_130"
+  - first:
+      213: 8098473438740817300
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_131"
+  - first:
+      213: -2161214156266713279
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_132"
+  - first:
+      213: -264224355016969321
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_133"
+  - first:
+      213: 2564697447730370894
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_134"
+  - first:
+      213: -7683204134443093618
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_135"
+  - first:
+      213: 3348262352320247150
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_136"
+  - first:
+      213: -2506551603830302824
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_137"
+  - first:
+      213: -8388545606098107239
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_138"
+  - first:
+      213: -6893300600810538284
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_139"
+  - first:
+      213: 5807287919931008652
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_140"
+  - first:
+      213: 6120540237697844086
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_141"
+  - first:
+      213: 8847816274480393643
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_142"
+  - first:
+      213: -8330244651244271970
+    second: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_143"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 544
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d6b0ef4a0d73700800000000000000
+      internalID: 520113689039957382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_1"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 544
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1955ebcbfd36d3090800000000000000
+      internalID: -8053170746073131631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_2"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 544
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11060a531e3077720800000000000000
+      internalID: 2843745955509985297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_3"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 544
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75af80d2bddb3ebb0800000000000000
+      internalID: -4907870419852658089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_4"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9cad786bf1886b70800000000000000
+      internalID: 8892500381032885403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_5"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 288
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234332a79ed803b30800000000000000
+      internalID: 4265064881035883570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_6"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 288
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 659f40e832f740f00800000000000000
+      internalID: 1082129601159035222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_7"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 288
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f5958e40052fbe70800000000000000
+      internalID: 9133059252578260464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_8"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2557317012f8590800000000000000
+      internalID: -7669875326113721616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_9"
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 32
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010c294eb60ecb580800000000000000
+      internalID: -8809920017042587632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_10"
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 32
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a27bc4c7f71b060800000000000000
+      internalID: 6967490270358612525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u20143d fantastic game islands gui_3576256_11"
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 32
+        width: 200
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 482d9889b95c15740800000000000000
+      internalID: 5139105921876218500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

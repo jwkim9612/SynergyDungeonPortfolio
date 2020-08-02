@@ -1,0 +1,127 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 8
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 77b902c9901f49048a6544081af19b25, type: 3}
+  m_Name: ArtifactDataSheet
+  m_EditorClassIdentifier: 
+  ArtifactExcelDatas:
+  - Id: 1
+    Name: "\uC740\uBE5B \uBC18\uC9C0"
+    ArtifactPieceIds: 1,2,3
+    Attack: 10
+    MagicalAttack: 0
+    Health: 0
+    Defence: 0
+    MagicDefence: 0
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_MACHINE
+  - Id: 2
+    Name: "\uC5D8\uD504\uC758 \uD314\uCC0C"
+    ArtifactPieceIds: 1,1,1
+    Attack: 0
+    MagicalAttack: 10
+    Health: 0
+    Defence: 0
+    MagicDefence: 0
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_BEAST
+  - Id: 3
+    Name: "\uBE5B\uB098\uB294 \uB3CC"
+    ArtifactPieceIds: 1,2,2
+    Attack: 0
+    MagicalAttack: 0
+    Health: 15
+    Defence: 0
+    MagicDefence: 0
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_DEVIL
+  - Id: 4
+    Name: "\uB4DC\uB798\uACE4\uC758 \uBAA9\uAC78\uC774"
+    ArtifactPieceIds: 3,4,5
+    Attack: 0
+    MagicalAttack: 0
+    Health: 0
+    Defence: 10
+    MagicDefence: 0
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_BEAST
+  - Id: 5
+    Name: "\uBCF4\uC11D \uADC0\uAC78\uC774"
+    ArtifactPieceIds: 1,2,4
+    Attack: 0
+    MagicalAttack: 0
+    Health: 0
+    Defence: 0
+    MagicDefence: 10
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_UNDEAD
+  - Id: 6
+    Name: "\uC5EC\uC655\uC758 \uAC00\uD638"
+    ArtifactPieceIds: 1,2,5
+    Attack: 8
+    MagicalAttack: 8
+    Health: 0
+    Defence: 8
+    MagicDefence: 8
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_ELF
+  - Id: 7
+    Name: "\uD30C\uB780 \uBB3C\uD1B5"
+    ArtifactPieceIds: 5,5,5
+    Attack: 0
+    MagicalAttack: 0
+    Health: 0
+    Defence: 0
+    MagicDefence: 0
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_ELEMENTAL
+  - Id: 8
+    Name: "\uBE68\uAC04 \uB9C8\uC6B0\uC2A4"
+    ArtifactPieceIds: 4,4,4
+    Attack: 0
+    MagicalAttack: 0
+    Health: 0
+    Defence: 0
+    MagicDefence: 0
+    Shield: 0
+    Accuracy: 0
+    Evasion: 0
+    Critical: 0
+    AttackSpeed: 0
+    ImagePath: Images/Tribe/Logo_HUMAN
