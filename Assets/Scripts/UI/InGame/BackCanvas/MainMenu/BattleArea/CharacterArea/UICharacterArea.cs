@@ -67,17 +67,6 @@ public class UICharacterArea : MonoBehaviour
 
         backArea.SetUICharacterList(backAreaInfos);
         frontArea.SetUICharacterList(frontAreaInfos);
-
-        var uiCharacterListWithCharacter = GetUICharacterListWithCharacters();
-        numOfCurrentPlacedCharacters = uiCharacterListWithCharacter.Count;
-
-        foreach (var uiCharacter in uiCharacterListWithCharacter)
-        {
-            Debug.Log($"name = {uiCharacter.name} ");
-
-            uiCharacter.character.SetSize(CharacterService.SIZE_IN_BATTLE_AREA);
-            uiCharacter.SetAnimationImage();
-        }
     }
 
     public void ShowAllUICharacters()

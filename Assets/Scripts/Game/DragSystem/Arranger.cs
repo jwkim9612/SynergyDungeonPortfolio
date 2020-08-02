@@ -105,6 +105,8 @@ public class Arranger : MonoBehaviour
             {
                 uiCharacter.character.SetSize(CharacterService.SIZE_IN_BATTLE_AREA);
                 uiCharacter.SetAnimationImage();
+
+                InGameManager.instance.backCanvas.uiMainMenu.uiBattleArea.uiCharacterArea.AddCurrentPlacedCharacter();
             }
             else if(uiCharacter.GetArea<UIPrepareArea>() != null)
             {

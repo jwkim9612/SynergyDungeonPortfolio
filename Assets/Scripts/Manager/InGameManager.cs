@@ -36,9 +36,13 @@ public class InGameManager : MonoBehaviour
         InGameService.Initialize();
         playerState.Initialize();
         InitializeSystems();
+
+        backCanvas.Initialize();
+
         draggableCentral.Initialize();
         frontCanvas.Initialize();
-        backCanvas.Initialize();
+
+
         gameState.Initialize();
     }
 
